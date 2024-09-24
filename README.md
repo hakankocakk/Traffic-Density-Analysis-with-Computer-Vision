@@ -1,6 +1,7 @@
 # Traffic-Density-Analysis-with-Computer-Vision
-This project is designed to analyze traffic density on roads in real time with artificial intelligence and image processing.
-The project needs to be customized according to the camera used.
+The system I developed takes video footage of a highway as input. It analyzes the number of vehicles, vehicle types, and traffic density on the highway in real-time.
+
+The statistics provided by this system can offer many benefits. For example, the hourly rate for electronic billboards on a highway increases during peak traffic hours and decreases during low traffic hours. This way, advertisers save money while advertising agencies maximize their financial profit.
 
 ![Demo](videos/traffic.gif)
 
@@ -16,3 +17,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+### 8. **About the Developer**
+- Hakan KOCAK
+
