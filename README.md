@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 Video link:
 Download the video and upload it to the videos/test folder
-[![Video Title]](https://drive.google.com/file/d/1UHODDpvU2gFCI9337M0tLHw63bzt2r7J/view?usp=sharing)
+[![Video]](https://drive.google.com/file/d/1UHODDpvU2gFCI9337M0tLHw63bzt2r7J/view?usp=sharing)
 
 Project Screenshot:
 ![Project Screenshot](İmages/Traffic.png)
