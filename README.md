@@ -1,7 +1,7 @@
 # Traffic-Density-Analysis-with-Computer-Vision
 The system I developed takes video footage of a highway as input. It analyzes the number of vehicles, vehicle types, and traffic density on the highway in real-time.
 
-The statistics provided by this system can offer many benefits. For example, the hourly rate for electronic billboards on a highway increases during peak traffic hours and decreases during low traffic hours. This way, advertisers save money while advertising agencies maximize their financial profit.
+The statistics provided by this system can provide many other benefits besides just measuring traffic density. For example, the hourly rate for electronic billboards on a highway increases during peak traffic hours and decreases during low traffic hours. This way, advertisers save money while advertising agencies maximize their financial profit.
 
 ![Demo](videos/traffic.gif)
 
