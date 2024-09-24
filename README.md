@@ -11,4 +11,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/hakankocakk/Traffic-Density-Analysis-with-Computer-Vision.git
 
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
