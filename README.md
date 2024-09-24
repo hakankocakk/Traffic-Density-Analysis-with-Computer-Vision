@@ -17,7 +17,8 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+![Project Screenshot](İmages/Traffic.png)
 
-### 8. **About the Developer**
+### **About the Developer**
 - Hakan KOCAK
 
